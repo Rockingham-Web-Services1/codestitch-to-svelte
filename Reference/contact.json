@@ -1,0 +1,83 @@
+{
+	"components": [
+		{
+			"name": "banner_559",
+			"fields": {
+				"subtitle": "INSPIRED FENCING",
+				"title": "Contact Us",
+				"image": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				},
+				"image_m": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				},
+				"image_t": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				}
+			}
+		},
+		{
+			"name": "contact_486",
+			"fields": {
+				"title1": "Talk to us about your",
+				"title2": "fencing plan!",
+				"description": "We would love to hear about your project and our team is ready to discuss your needs, provide a free consultation, and offer expert guidance to bring your vision to life. Contact us today and let us transform your home with our professional service. Please fill the form on the right side to schedule a call or to set up a meeting at a convenient time.",
+				"question": "Any problem about your booking?",
+				"cta": "You can contact us on :",
+				"phone": {
+					"number": "+61 416 186 911"
+				},
+				"email": {
+					"address": "info@inspiredfencing.com.au"
+				},
+				"address": {
+					"title": "Address",
+					"location": "Frankston Flinders Rd, 3912 Somerville, Victoria, Australia",
+					"icon": "media/svg/Icons_pin-green.svg",
+					"iconALT": "Green location pin icon"
+				},
+				"form": {
+					"title": "GET IN TOUCH",
+					"name": "Name",
+					"phone": "Phone",
+					"email": "Email",
+					"label1": "How Did You Find Us?",
+					"label2": "What do you need help with?",
+					"option1": "New fence / gate",
+					"option2": "Fence / gate repair or replacement",
+					"option3": "Fence and Waste Removal",
+					"option4": "Handyman and Garden Maintenance",
+					"button": "Make an enquiry"
+				}
+			}
+		},
+		{
+			"name": "reviews_607",
+			"fields": {
+				"title": "What are customers have to say about us",
+				"subtitle": "Testimonials",
+				"description": "Hear from our happy customers and see why we're the trusted choice for fencing in the Mornington Peninsula. Real stories, real satisfaction - that's our promise.",
+				"button": {
+					"title": "Gret A Free Quote",
+					"url": "."
+				},
+				"image": {
+					"url": "media/img/cabinets.jpeg",
+					"alt": "kitchen cabinets"
+				},
+				"imageM": {
+					"url": "media/img/cabinets-m.jpeg",
+					"alt": "kitchen cabinets"
+				}
+			}
+		}
+	],
+	"meta": {
+		"title": "Inspired Fencing",
+		"desc": "A template for the Build-Time Render Engine Plenti",
+		"keywords": "Plenti, Svelte, Go, SSG, JAMstack, Themes"
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"components": [
+		{
+			"name": "banner_559",
+			"fields": {
+				"subtitle": "INSPIRED FENCING",
+				"title": "About",
+				"image": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				},
+				"image_m": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				},
+				"image_t": {
+					"url": "media/images/bannerImage.webp",
+					"alt": "white fence"
+				}
+			}
+		},
+		{
+			"name": "sbsr_312",
+			"fields": {
+				"subtitle": "About Us",
+				"title1": "About",
+				"title2": "Inspired Fencing",
+				"description": [
+					{
+						"paragraph": "Inspired fencing is a local family business based in Somerville on the beautiful Mornington Peninsula. At Inspired fencing, we endeavor to go that extra mile for our clients in making sure your fence is built how you want from first inspection and quoting to starting and finishing construction. If you require any further information, have any questions, or would like to arrange a time to book your free measure & quote, please feel free to contact us today"
+					}
+				],
+				"quote": {
+					"text": "We take pride in our commitment to excellence, backing our work with a 100% workmanship guarantee. If you encounter any concerns or issues with any aspect of our fencing or gate installations, we are dedicated to addressing and resolving them promptly. At Inspired Fencing, our primary objective is to ensure every client is not just satisfied but 100% delighted with the outcome of our work.",
+					"name": "Rowan Higgs",
+					"role": "Owner - Principle fencer"
+				},
+				"featureImage1": {
+					"image_m": {
+						"url": "media/images/about/Feature_TimberFence.webp",
+						"alt": "Timber paling fence"
+					},
+					"image": {
+						"url": "media/images/about/Feature_TimberFence.webp",
+						"alt": "Timber paling fence"
+					}
+				},
+				"featureImage2": {
+					"image_m": {
+						"url": "media/images/about/Design.webp",
+						"alt": "Paling fence side persective"
+					},
+					"image": {
+						"url": "media/images/about/Design.webp",
+						"alt": "Paling fence side persective"
+					}
+				},
+				"button": {
+					"title": "Get in touch",
+					"url": "contact"
+				}
+			}
+		},
+		{
+			"name": "stats_479",
+			"fields": {
+				"rating": {
+					"number": "5/5",
+					"title": "Rating",
+					"icon": {
+						"url": "media/svg/stat1.svg",
+						"alt": "rating icon"
+					}
+				},
+				"satisfaction": {
+					"number": "100%",
+					"title": "Satisfaction",
+					"icon": {
+						"url": "media/svg/stat2.svg",
+						"alt": "Satisfactionicon"
+					}
+				},
+				"experience": {
+					"number": "8+",
+					"title": "Years Experience",
+					"icon": {
+						"url": "media/svg/stat3.svg",
+						"alt": "Years Experience"
+					}
+				}
+			}
+		},
+		{
+			"name": "services_479",
+			"fields": {
+				"subtitle": "Fencing Services",
+				"title": "Trusted Fencing Contractor in Flinders",
+				"description": "Our unwavering dedication to customer satisfaction sets us apart. If you're in search of a fencing and gate contractor that gets the job done right from the start, your search ends here. Choose Inspired Fencing for a seamless blend of quality, reliability, and customer-centric service that leaves you with security and style that exceeds your expectations.",
+				"cta": {
+					"title": "See Our Reviews",
+					"link": "testimonials",
+					"icon": {
+						"url": "media/svg/arrow_white.svg",
+						"alt": "white arrow"
+					},
+					"image_m": {
+						"url": "media/images/index/Feature_TimberFence_02.webp",
+						"alt": "Featured paling fence"
+					},
+					"image": {
+						"url": "media/images/index/Feature_TimberFence_02.webp",
+						"alt": "Featured paling fence"
+					}
+				},
+				"card1": {
+					"title": "Fences",
+					"description": "We offer a wide range of elegent but affordable fence solutions.",
+					"icon": {
+						"url": "media/svg/picket-fence-svgrepo-com.svg",
+						"alt": "picket fence"
+					},
+					"link": {
+						"text": "Read More",
+						"url": "services"
+					}
+				},
+				"card2": {
+					"title": "Gates",
+					"description": "Our gates are build to last & we will build your fence to stand out in the crowd!",
+					"icon": {
+						"url": "media/svg/gate-svgrepo-com.svg",
+						"alt": "featured gate"
+					},
+					"link": {
+						"text": "Read More",
+						"url": "services"
+					}
+				}
+			}
+		},
+		{
+			"name": "reviews_607",
+			"fields": {
+				"subtitle": "Testimonials",
+				"title": "WHAT OUR CUSTOMERS HAVE TO SAY ABOUT OUR WORK",
+				"description": "We don't just boast about our work; our clients place their trust in us. See for yourself what a few of our customers have shared about their interactions with Inspired Fencing.",
+				"button": {
+					"title": "Get a free quote",
+					"url": "contact"
+				}
+			}
+		},
+		{
+			"name": "cta_403",
+			"fields": {
+				"subtitle": "Inspired Fencing",
+				"title": "Looking for the best fence or gate in town?",
+				"description": "We love what we do and we do it with passion. We value quality workmanship and customer satisfaction.",
+				"button": {
+					"title": "See our Services",
+					"url": "services"
+				},
+				"picture": {
+					"image_m": {
+						"src": "media/images/index/Feature_paling.webp"
+					},
+					"image_t": {
+						"src": "media/images/index/Feature_paling.webp"
+					},
+					"image": {
+						"url": "media/images/index/Feature_paling.webp",
+						"alt": "Featured paling fence"
+					}
+				}
+			}
+		}
+	],
+	"meta": {
+		"title": "Inspired Fencing",
+		"desc": "A template for the Build-Time Render Engine Plenti",
+		"keywords": "Plenti, Svelte, Go, SSG, JAMstack, Themes"
+	}
+}
