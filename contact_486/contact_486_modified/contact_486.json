@@ -1,0 +1,63 @@
+{
+     "name": "contact_486", 
+ "fields": {
+ "p": { 
+    "p_0": "We would love to hear about your project and discuss how we can help. Please fill the form on the right side to schedule a call or discussion and meeting on the your convenient time." 
+    },
+ "h1": { 
+    },
+ "h2": { 
+    "h2_0": "None" 
+    },
+ "h3": { 
+    "h3_0": "Schedule Consult" 
+    },
+ "a": { 
+    "a_0": "(219) 555-4545", 
+    "href_0": "tel:219-555-4545", 
+    "a_1": "info@codestitch.com", 
+    "href_1": "mailto:info@codestitch.com" 
+    },
+ "input": { 
+    "name_0": "name", 
+    "placeholder_0": "Name", 
+    "type_0": "text", 
+    "name_1": "phone", 
+    "placeholder_1": "Phone", 
+    "type_1": "text", 
+    "name_2": "email", 
+    "placeholder_2": "Email", 
+    "type_2": "text", 
+    "name_3": "find-us", 
+    "placeholder_3": "How did you find us?", 
+    "type_3": "text" 
+    },
+ "option": { 
+    "option_0": "Full Renovation", 
+    "value_0": "full renovation", 
+    "option_1": "Sod Install", 
+    "value_1": "sod install", 
+    "option_2": "Yard Cleanup", 
+    "value_2": "yard cleanup", 
+    "option_3": "Landscape Design", 
+    "value_3": "landscape design" 
+    },
+ "img": { 
+    },
+ "button": { 
+    "button_0": "Book a Consult", 
+    "type_0": "submit" 
+    },
+ "span": { 
+    "heading0": "Any problem about your booking?", 
+    "heading1": "You can contact us on :" 
+    },
+ "label": { 
+    "label0": "Name", 
+    "label1": "Phone", 
+    "label2": "Email", 
+    "label3": "How Did You Find Us", 
+    "label4": "What do you need help with?" 
+    }
+}
+}
