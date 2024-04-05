@@ -1,5 +1,5 @@
 <script>
-    export let p_0, h2_0, h3_0, a_0, href_0, a_1, href_1, name_0, placeholder_0, type_0, name_1, placeholder_1, type_1, name_2, placeholder_2, type_2, name_3, placeholder_3, type_3, option_0, value_0, option_1, value_1, option_2, value_2, option_3, value_3, button_0, type_0, heading0, heading1, label0, label1, label2, label3, label4;
+    export let p_0, h2_0, h3_0, a_0, href_0, a_1, href_1, name_0, placeholder_0, type_0, name_1, placeholder_1, type_1, name_2, placeholder_2, type_2, name_3, placeholder_3, type_3, option_0, value_0, option_1, value_1, option_2, value_2, option_3, value_3, button_0, button_type_0, heading0, heading1, label0, label1, label2, label3, label4;
 </script>
 
 <!-- ============================================ -->
@@ -27,7 +27,7 @@
 <label class="cs-label">{label2}<input class="cs-input" id="email-486" name="{name_2}" placeholder="{placeholder_2}" required="" type="{type_2}"/></label>
 <label class="cs-label">{label3}<input class="cs-input" id="find-486" name="{name_3}" placeholder="{placeholder_3}" type="{type_3}"/></label>
 <label class="cs-label cs-label-message">{label4}</label>
-<button class="cs-button-solid cs-submit" type="{type_0}">{button_0}</button>
+<button class="cs-button-solid cs-submit" type="{button_type_0}">{button_0}</button>
 </form>
 </div>
 </section>
