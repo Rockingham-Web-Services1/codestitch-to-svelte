@@ -14,39 +14,39 @@
     },
  "a": { 
     "a_0": "(219) 555-4545", 
-    "href_0": "tel:219-555-4545", 
+    "href_0attribute": "tel:219-555-4545", 
     "a_1": "info@codestitch.com", 
-    "href_1": "mailto:info@codestitch.com" 
+    "href_1attribute": "mailto:info@codestitch.com" 
     },
  "input": { 
-    "name_0": "name", 
-    "placeholder_0": "Name", 
-    "type_0": "text", 
-    "name_1": "phone", 
-    "placeholder_1": "Phone", 
-    "type_1": "text", 
-    "name_2": "email", 
-    "placeholder_2": "Email", 
-    "type_2": "text", 
-    "name_3": "find-us", 
-    "placeholder_3": "How did you find us?", 
-    "type_3": "text" 
+    "name_0attribute": "name", 
+    "placeholder_0attribute": "Name", 
+    "type_0attribute": "text", 
+    "name_1attribute": "phone", 
+    "placeholder_1attribute": "Phone", 
+    "type_1attribute": "text", 
+    "name_2attribute": "email", 
+    "placeholder_2attribute": "Email", 
+    "type_2attribute": "text", 
+    "name_3attribute": "find-us", 
+    "placeholder_3attribute": "How did you find us?", 
+    "type_3attribute": "text" 
     },
  "option": { 
     "option_0": "Full Renovation", 
-    "value_0": "full renovation", 
+    "value_0attribute": "full renovation", 
     "option_1": "Sod Install", 
-    "value_1": "sod install", 
+    "value_1attribute": "sod install", 
     "option_2": "Yard Cleanup", 
-    "value_2": "yard cleanup", 
+    "value_2attribute": "yard cleanup", 
     "option_3": "Landscape Design", 
-    "value_3": "landscape design" 
+    "value_3attribute": "landscape design" 
     },
  "img": { 
     },
  "button": { 
     "button_0": "Book a Consult", 
-    "type_0": "submit" 
+    "type_0attribute": "submit" 
     },
  "span": { 
     "heading0": "Any problem about your booking?", 
