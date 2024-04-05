@@ -48,16 +48,25 @@
     "button_0": "Book a Consult", 
     "type_0attribute": "submit" 
     },
+ "label": { 
+    "label_0": "None", 
+    "label_1": "None", 
+    "label_2": "None", 
+    "label_3": "None", 
+    "label_4": "None" 
+    },
+ "svg": { 
+    },
  "span": { 
     "heading0": "Any problem about your booking?", 
     "heading1": "You can contact us on :" 
     },
  "label": { 
-    "label0": "Name", 
-    "label1": "Phone", 
-    "label2": "Email", 
-    "label3": "How Did You Find Us", 
-    "label4": "What do you need help with?" 
+    "label0": "{label.label_0}", 
+    "label1": "{label.label_1}", 
+    "label2": "{label.label_2}", 
+    "label3": "{label.label_3}", 
+    "label4": "{label.label_4}" 
     }
 }
 }
